@@ -1,6 +1,6 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102) ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 # Slate  📝
-Slate Notes takes html (or other data), compresses it into a URL fragment, and provides a link that can be shared. When it is opened, it renders that data on the receiver’s side. Its live [here](http://iamshouvikmitra.github.io/slate).
+Slate Notes takes html (or other data), compresses it into a URL fragment, and provides a link that can be shared. When it is opened, it renders that data on the receiver’s side. Its live [here](https://iamtusharsharma.github.io/slate/).
 
 # About
 Slate Notes are contained entirely within their own link. (Including this one!) This means they're... <br>
